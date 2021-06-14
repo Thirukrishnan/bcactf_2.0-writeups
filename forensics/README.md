@@ -1,4 +1,4 @@
-														Secure Zip
+								Secure Zip
 
 Gerald lost his homework in this zip file. He needs to extract his homework or else he fails CTF101.
 
