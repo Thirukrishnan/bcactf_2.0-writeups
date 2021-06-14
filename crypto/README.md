@@ -1,4 +1,4 @@
-													Easy Rsa
+								 Easy RSA
 
 As part of his CTF101 class, Gerald needs to find the plaintext that his teacher encrypted. Can you help him do his homework? ( It's definetely not cheating ;) )
 
@@ -24,7 +24,7 @@ FLAG:bcactf{RSA_IS_EASY_AFTER_ALL}
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-												 Cipher Mishap
+								 Cipher Mishap
 
 My Caeser-loving friend decided to send me a text file, but before sending it, his sister, who loves Caps Lock, tampered with the file. Can you help me find out what my friend sent me? Note: the answer must be wrapped in bcactf{}
 
@@ -52,7 +52,7 @@ FLAG:bcactf{Should_iT_Have_BeeN_Vigenere_Instead}
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-											  Slightly Harder RSA
+							       Slightly Harder RSA
 
 Gerald's homework is getting trickier. He isn't being given the primes anymore. Help him find the plaintext!
 
