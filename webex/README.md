@@ -1,4 +1,4 @@
-														Countdown Timer
+								Countdown Timer
 
 Get the flag once the countdown timer reaches zero! However, the minimum time you can set for the countdown is 100 days, so you might be here for a while.
 
