@@ -1,4 +1,4 @@
-Challenge: Example Problem
+                                                                    Example Problem
 
 Look at this example problem. This is the problem description. You will be able to add markdown!
 
@@ -13,9 +13,9 @@ This problem just explains the flag formar and how to view the hints.
 
 FLAG:bcactf{this_is_a_flag}
 
--------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Challenge: Obligatory Discord Problem
+                                                                Obligatory Discord Problem
 
 Come join our Discord to hang out with other players! Plus you might even get a flag, who knows...
 
@@ -28,9 +28,9 @@ We have to just join the discord server of this ctf and we could find the flag i
 
 FLAG:bcactf{is_too_sanity_checks_two_much?}
 
--------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Challenge:I Can Haz Interwebz?
+                                                                  I Can Haz Interwebz?
 
 Awww! Look at these cute and adorable cats helping me navigate the interwebzes.
 
@@ -44,4 +44,4 @@ We can also find the link of a github file used to generate that ascii-art.from 
 Flag:bcactf{r41nb0w_P0p_t4rT5_g0_nY4_s3Dy0Bqd6u}
 
 
--------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
