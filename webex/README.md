@@ -41,6 +41,7 @@ FLAG: bcactf{c00k13s_s3rved_fr3sh_fr0m_th3_smart_0ven_cD7EE09kQ}
 								 100 points
 								 
 I heard a new movie was coming out... apparently it's supposed to be the SeQueL to "Gerard's First Dance"? Is there any chance you can help me find the flyer? 
+
 ◇ http://web.bcactf.com:49160/  
 
 Solution:
