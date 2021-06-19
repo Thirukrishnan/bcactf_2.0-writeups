@@ -34,6 +34,7 @@ user:vampire
 
 Then if we change the cookie user to admin and click on lights on we get the flag:
 
+
 user: admin
 
 FLAG: bcactf{c00k13s_s3rved_fr3sh_fr0m_th3_smart_0ven_cD7EE09kQ}
