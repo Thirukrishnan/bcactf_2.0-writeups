@@ -1,6 +1,6 @@
 								Countdown Timer
 
-Get the flag once the countdown timer reaches zero! However, the minimum time you can set for the countdown is 100 days, so you might be here for a while.
+Get the flag once the countdown timer reaches zero! However, the minimum time you can set for the countdown is 100 days, so you might be here for a while.  
 
 http://web.bcactf.com:49154/
 
@@ -19,7 +19,8 @@ FLAG:bcactf{1_tH1nK_tH3_CtF_w0u1D_b3_0v3r_bY_1O0_dAy5}
 								Home Automation
 								   75 points
 								   
-Check out my super secure home automation system! No, don't try turning the lights off...  
+Check out my super secure home automation system! No, don't try turning the lights off...
+
 ◇ http://web.bcactf.com:49155/  
 
 Solution:
@@ -39,7 +40,7 @@ FLAG: bcactf{c00k13s_s3rved_fr3sh_fr0m_th3_smart_0ven_cD7EE09kQ}
 								Movie-Login-1
 								 100 points
 								 
-I heard a new movie was coming out... apparently it's supposed to be the SeQueL to "Gerard's First Dance"? Is there any chance you can help me find the flyer?  
+I heard a new movie was coming out... apparently it's supposed to be the SeQueL to "Gerard's First Dance"? Is there any chance you can help me find the flyer? 
 ◇ http://web.bcactf.com:49160/  
 
 Solution:
@@ -56,7 +57,7 @@ FLAG:bcactf{s0_y0u_f04nd_th3_fl13r?}
 								Movie-Login-2
 								 150 points
 								 
-It's that time of year again! Another movie is coming out, and I really want to get some insider information. I heard that you leaked the last movie poster, and I was wondering if you could do it again for me?  
+It's that time of year again! Another movie is coming out, and I really want to get some insider information. I heard that you leaked the last movie poster, and I was wondering if you could do it again for me?    
 
 ◇ denylist.json  
 ◇ http://web.bcactf.com:49153/  
@@ -78,7 +79,8 @@ FLAG:bcactf{h0w_d1d_y0u_g3t_h3r3_th1s_t1m3?!?}
 								Movie-Login-3
 								 200 points
 								 
-I think the final addition to the Gerard series is coming out! I heard the last few movies got their poster leaked. I'm pretty sure they've increased their security, though. Could you help me find the poster again?  
+I think the final addition to the Gerard series is coming out! I heard the last few movies got their poster leaked. I'm pretty sure they've increased their security, though. Could you help me find the poster again?    
+
 ◇ denylist.json  
 ◇ http://web.bcactf.com:49162/  
 
@@ -98,6 +100,7 @@ FLAG:bcactf{gu3ss_th3r3s_n0_st0pp1ng_y0u!}
 								 125 points
 								 
 Agent Gerald is a spy in SI-6 (Stegosaurus Intelligence-6). We need you to infiltrate this top-secret SI-6 webpage, but it looks like it can only be accessed by Agent Gerald's special browser...  
+  
 ◇ http://web.bcactf.com:49156/  
 
 Solution:
